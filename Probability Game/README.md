@@ -16,11 +16,15 @@ Regarding the beginning advantage, we find no significant beginner’s advantage
 
 Plots to check if the random number generator is biased:
 
-We see each number occuring with approximately equal frequency - 
+We see each number occuring with approximately equal frequency -
+
+
 ![Bias1](https://github.com/svellaichamy3/Simulation/blob/main/Probability%20Game/images/bar.PNG)
 
 
 Pairs of consecutive rolls donot show repetitive behaviour - 
+
+
 ![Bias2](https://github.com/svellaichamy3/Simulation/blob/main/Probability%20Game/images/dot.PNG)
 
 
